@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository
+Hello there. My name Ilya and i started to making steps to my future career!
